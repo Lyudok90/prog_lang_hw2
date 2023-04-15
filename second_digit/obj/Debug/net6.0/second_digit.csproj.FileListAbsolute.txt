@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\bin\Debug\net6.0\second_digit.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\bin\Debug\net6.0\second_digit.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\bin\Debug\net6.0\second_digit.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\bin\Debug\net6.0\second_digit.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\bin\Debug\net6.0\second_digit.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\refint\second_digit.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\second_digit.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework2\second_digit\obj\Debug\net6.0\ref\second_digit.dll
